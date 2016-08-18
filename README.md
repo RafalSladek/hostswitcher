@@ -5,7 +5,7 @@ hostswitcher tool for changing environments
 * Linux
 * Mac OSX
 
-## How to use 
+## How to use it?
 ```shell 
-ruby hostswitcher.rb
+sudo ruby hostswitcher.rb
 ```
