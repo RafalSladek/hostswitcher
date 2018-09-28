@@ -2,6 +2,10 @@
 
 hostswitcher tool for changing network environments
 
+## required
+
+* ruby
+
 ## suported os
 * Linux
 * Mac OSX
